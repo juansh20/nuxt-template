@@ -15,6 +15,7 @@
         <NuxtLink to="/" class="btn btn-ghost">
             Login
         </NuxtLink>
+        <AppThemeToggle />
     </div>
   </div>
 </template>
